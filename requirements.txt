@@ -1,0 +1,4 @@
+discord.py
+python-dotenv
+yt-dlp
+youtube-search-python
